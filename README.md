@@ -135,6 +135,20 @@ Purchase Data
 """
 
 Formatted multiline list:
+"""
+Product Detail Page Views
+Shopping Cart Additions
+
+Purchase Data
+"""
+Unformatted multiline list:
+"""
+Product Detail Page Views
+Shopping Cart Additions
+Purchase Data
+"""
+
+Formatted multiline list:
 {selection}
 
 Unformatted multiline list:
